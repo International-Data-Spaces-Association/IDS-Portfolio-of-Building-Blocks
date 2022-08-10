@@ -5,7 +5,6 @@ These tables below list projects, classified by their component type and are cur
 
 :triangular_flag_on_post: [IDS Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) is offered to be used for component behaviour testing, interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker), preparation for IDS certification and also as a starting point for creation of data spaces. 
 
-
 # Connector
 Name | Description | Documentation | [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) level |
 --- | --- | --- | --- | 
