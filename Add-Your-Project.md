@@ -1,5 +1,5 @@
 ## How to Add a Project to the IDS Portfolio of Building Blocks? 
-To add your project into the tables listed on the [home page of IDS Portfolio of Building Blocks](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks), we recommend you to follow these steps below:
+To add your project into the tables listed on the [home page of IDS Portfolio of Building Blocks](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks), you may follow these steps below (please note that, it is also possible to start with step 3, i.e. apply as a Sandbox project):
 
 1) Provide information on your project by creating an [issue here](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks/issues/new?assignees=&labels=&template=building-block-addition-request.md&title=)
 2) IDSA Head Office staff will review your issue/application and come back to you if any questions arise.
