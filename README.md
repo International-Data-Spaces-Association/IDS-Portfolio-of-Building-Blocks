@@ -1,6 +1,8 @@
 # IDS Portfolio of Building Blocks
 This is the repository to provide an overview of available IDS Building Blocks that are available as open source projects, including the projects qualified via [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) and others that contain pieces to initiate a data space. 
 
+:heavy_plus_sign: To add a project to the tables below, please [follow the steps mentioned here](Add-Your-Project.md).
+
 These tables below list projects, classified by their component type and are curated by the [IDSA](https://internationaldataspaces.org/) Head Office.
 
 :triangular_flag_on_post: [IDS Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) is offered to be used for component behaviour testing, interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker), preparation for IDS certification and also as a starting point for creation of data spaces. 
